@@ -10,7 +10,11 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
+<<<<<<< HEAD
             "program": "${workspaceFolder}/bin/Debug/netcoreapp2.1/Etapa1.dll",
+=======
+            "program": "${workspaceFolder}/bin/Debug/netcoreapp2.1/CoreEscuela.dll",
+>>>>>>> a02cdac015d5cfc1b09373df12f4a48bc53a9a09
             "args": [],
             "cwd": "${workspaceFolder}",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console

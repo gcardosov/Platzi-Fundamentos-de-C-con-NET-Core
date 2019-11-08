@@ -694,11 +694,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\gcardoso\\Desktop\\CoreEscuela\\Etapa1\\Etapa1.csproj",
       "projectName": "Etapa1",
       "projectPath": "C:\\Users\\gcardoso\\Desktop\\CoreEscuela\\Etapa1\\Etapa1.csproj",
       "packagesPath": "C:\\Users\\gcardoso\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\gcardoso\\Desktop\\CoreEscuela\\Etapa1\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\gcardoso\\Desktop\\CoreEscuela\\CoreEscuela.csproj",
+      "projectName": "CoreEscuela",
+      "projectPath": "C:\\Users\\gcardoso\\Desktop\\CoreEscuela\\CoreEscuela.csproj",
+      "packagesPath": "C:\\Users\\gcardoso\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gcardoso\\Desktop\\CoreEscuela\\obj\\",
+>>>>>>> a02cdac015d5cfc1b09373df12f4a48bc53a9a09
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

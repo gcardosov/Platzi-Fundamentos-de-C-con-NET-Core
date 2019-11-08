@@ -7,7 +7,11 @@
             "type": "process",
             "args": [
                 "build",
+<<<<<<< HEAD
                 "${workspaceFolder}/Etapa1.csproj",
+=======
+                "${workspaceFolder}/CoreEscuela.csproj",
+>>>>>>> a02cdac015d5cfc1b09373df12f4a48bc53a9a09
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +23,11 @@
             "type": "process",
             "args": [
                 "publish",
+<<<<<<< HEAD
                 "${workspaceFolder}/Etapa1.csproj",
+=======
+                "${workspaceFolder}/CoreEscuela.csproj",
+>>>>>>> a02cdac015d5cfc1b09373df12f4a48bc53a9a09
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -32,7 +40,11 @@
             "args": [
                 "watch",
                 "run",
+<<<<<<< HEAD
                 "${workspaceFolder}/Etapa1.csproj",
+=======
+                "${workspaceFolder}/CoreEscuela.csproj",
+>>>>>>> a02cdac015d5cfc1b09373df12f4a48bc53a9a09
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
