@@ -1,0 +1,11 @@
+C:\Users\gcardoso\Desktop\CoreEscuela\Etapa1\bin\Debug\netcoreapp2.1\Etapa1.deps.json
+C:\Users\gcardoso\Desktop\CoreEscuela\Etapa1\bin\Debug\netcoreapp2.1\Etapa1.runtimeconfig.json
+C:\Users\gcardoso\Desktop\CoreEscuela\Etapa1\bin\Debug\netcoreapp2.1\Etapa1.runtimeconfig.dev.json
+C:\Users\gcardoso\Desktop\CoreEscuela\Etapa1\bin\Debug\netcoreapp2.1\Etapa1.dll
+C:\Users\gcardoso\Desktop\CoreEscuela\Etapa1\bin\Debug\netcoreapp2.1\Etapa1.pdb
+C:\Users\gcardoso\Desktop\CoreEscuela\Etapa1\obj\Debug\netcoreapp2.1\Etapa1.csprojAssemblyReference.cache
+C:\Users\gcardoso\Desktop\CoreEscuela\Etapa1\obj\Debug\netcoreapp2.1\Etapa1.csproj.CoreCompileInputs.cache
+C:\Users\gcardoso\Desktop\CoreEscuela\Etapa1\obj\Debug\netcoreapp2.1\Etapa1.AssemblyInfoInputs.cache
+C:\Users\gcardoso\Desktop\CoreEscuela\Etapa1\obj\Debug\netcoreapp2.1\Etapa1.AssemblyInfo.cs
+C:\Users\gcardoso\Desktop\CoreEscuela\Etapa1\obj\Debug\netcoreapp2.1\Etapa1.dll
+C:\Users\gcardoso\Desktop\CoreEscuela\Etapa1\obj\Debug\netcoreapp2.1\Etapa1.pdb

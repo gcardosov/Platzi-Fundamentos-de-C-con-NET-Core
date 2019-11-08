@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gcardoso\\Desktop\\CoreEscuela\\Etapa1\\Etapa1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gcardoso\\Desktop\\CoreEscuela\\Etapa1\\Etapa1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gcardoso\\Desktop\\CoreEscuela\\Etapa1\\Etapa1.csproj",
+        "projectName": "Etapa1",
+        "projectPath": "C:\\Users\\gcardoso\\Desktop\\CoreEscuela\\Etapa1\\Etapa1.csproj",
+        "packagesPath": "C:\\Users\\gcardoso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gcardoso\\Desktop\\CoreEscuela\\Etapa1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gcardoso\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
